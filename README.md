@@ -70,11 +70,10 @@ Detail View
 - Provide proper unit tests.
 - Provide components in [Storybook](https://storybook.js.org) with tests.
 - Use Yelp's [Graph QL](https://www.yelp.com/developers/graphql/guides/intro) endpoint
-- Write concise and clear commit messages.
+- Write concise and clear commit messages, splitting your changes in little pieces.
 - Provide an online demo of the application.
 - Include subtle animations to focus attention
 - Describe optimization opportunities when you conclude
-- Don't push giant commits. Split your changes in little pieces using well-described commits.
 
 ## What We Care About
 
