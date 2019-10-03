@@ -16,6 +16,14 @@ Use this Sketch file to see button states, colors, and responsive design.
 
 ### Yelp API
 
+Use these credentials:
+
+> Client ID
+YVxkQ43B2jf8J_y7NOGC7g
+
+> API Key
+7cgdYk2elh38Vbx_r7Op9N1fwJtH2s8TwieKCYXSp97_8SWZvdxntcDcXlbRZ9GykLhIhRnUeH3p-0TjrsHEEf4FqoRbdSs1xLEIIMrp7R2Tocv5A9_NxIn0xDGWXXYx
+
 You can ask us and we will provide you a Yelp API Key to use for your PR.
 
 > NOTE: Yelp's API does not allow CORS. To get around this, you will need to setup a local proxy with CORS support and proxy your requets to Yelp's endpoints.
